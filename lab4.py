@@ -1,2 +1,2 @@
 print("hello world")
-print(""HELLO COMPUTER")
+print("HELLO COMPUTER")
