@@ -1,0 +1,8 @@
+name: lab23yml
+on: push
+jobs:
+  job1:  
+    runs-on: ubuntu-latest
+    steps:
+    - name: st1
+      run: echo "hi"
